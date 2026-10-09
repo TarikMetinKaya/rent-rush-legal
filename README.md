@@ -1,6 +1,6 @@
 # Whisker Café (formerly Rent Rush): legal pages
 
-Privacy policy, terms of use and support for the iOS game **Whisker Café (formerly Rent Rush): Car Rental Tycoon**.
+Privacy policy, terms of use and support for the iOS game **Whisker Café** (formerly Rent Rush).
 
 - Privacy: https://tarikmetinkaya.github.io/rent-rush-legal/
 - Terms: https://tarikmetinkaya.github.io/rent-rush-legal/terms/
